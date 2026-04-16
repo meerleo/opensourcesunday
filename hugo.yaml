@@ -1,0 +1,55 @@
+baseURL: https://opensourcesunday.com
+locale: en-us
+title: Opensource Sunday
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+enableGitInfo: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Middle School
+      pageRef: /middle-school
+      weight: 1
+    - name: High School
+      pageRef: /high-school
+      weight: 2
+    - name: Confirmation
+      pageRef: /confirmation
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: Theme
+      weight: 5
+      params:
+        type: theme-toggle
+
+params:
+  description: Open-source Sunday School lessons that point Middle School, High School, and Confirmation students toward Jesus.
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  theme:
+    default: system
+    displayToggle: true
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+  page:
+    width: normal
+  toc:
+    displayTags: true
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
