@@ -12,55 +12,6 @@ cascade:
 **Scripture anchor:** Matthew 5–7
 **Series ONE thing:** Jesus doesn't just want us to follow the rules harder — he's inviting us into a brand new way to be human, built on him.
 
-{{< callout type="info" >}}
-**Work in progress.** Lessons 1 and 2 are ready to teach. Lessons 3–9 are currently drafts being shaped in public — visible with `hugo -D`, hidden from production builds. Feedback and pull requests welcome.
-{{< /callout >}}
-
-## The arc
-Nine weeks. Nine movements. One mountain.
-
-**Identity → Witness → Heart → Prayer → Treasure → Trust → Judgment → Asking → Foundation.**
-
-{{% steps %}}
-
-### Week 1 — Up the Mountain
-
-The Beatitudes. All eight of them. Jesus starts his most famous sermon by flipping the world's scoreboard — cheering for the poor in spirit, the mourners, the meek, the merciful, the peacemakers, and everyone the world tends to overlook.
-
-### Week 2 — Salt and Light
-
-Jesus names his followers: *you are salt, you are light.* Not decoration — flavor and illumination. Faith isn't private.
-
-### Week 3 — But I Say *(draft)*
-
-Six times, Jesus takes a familiar command and pushes past it to the heart. Don't just not murder — don't nurse anger. Don't just not cheat — guard your eyes. Love your enemies. Jesus wants your heart, not just your behavior.
-
-### Week 4 — When You Pray *(draft)*
-
-Prayer isn't performance. Stop with the showy words. Jesus hands us a prayer short enough to memorize and deep enough to last a lifetime — the Lord's Prayer.
-
-### Week 5 — Treasures and Two Masters *(draft)*
-
-What you store up, what you look at, and who you serve all expose the same thing: your heart. Jesus dares us to pick a master.
-
-### Week 6 — Do Not Worry *(draft)*
-
-Look at the birds. Look at the flowers. Your Father feeds them — he's got you, too. Worry is replaced by *seek first his kingdom.*
-
-### Week 7 — Judge Not *(draft)*
-
-Drop the gavel. Jesus tells a joke about someone with a 2×4 in their eye going after a speck in someone else's — and it's aimed at us.
-
-### Week 8 — Ask, Seek, Knock *(draft)*
-
-The Father gives good gifts. Keep asking. Keep seeking. Keep knocking. And because you've received so much, treat others the way you want to be treated.
-
-### Week 9 — House on the Rock *(draft)*
-
-Jesus closes his own sermon with a parable about two builders. Both hear. Only one does. The storm comes for both. Only one foundation holds.
-
-{{% /steps %}}
-
 ## Jump to a lesson
 
 {{< cards >}}
