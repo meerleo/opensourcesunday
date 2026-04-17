@@ -13,7 +13,7 @@ These lessons are written for the real middle schooler — the one who laughs to
 ## Series
 
 {{< cards >}}
-  {{< card link="sermon-on-the-mount" title="Sermon on the Mount" subtitle="Four weeks in the Beatitudes. Jesus flips the scoreboard." icon="book-open" >}}
+  {{< card link="sermon-on-the-mount" title="Sermon on the Mount" subtitle="Nine weeks in Matthew 5–7. A new way to be human." icon="book-open" >}}
 {{< /cards >}}
 
 ## What to expect from an MS lesson
