@@ -26,10 +26,15 @@ content/
 │   ├── _index.md
 │   └── sermon-on-the-mount/           # A series
 │       ├── _index.md                  # Series overview
-│       ├── 1-up-the-mountain.md       # Lesson 1
-│       ├── 2-blessed-are-the-hungry.md
-│       ├── 3-blessed-are-the-brave.md
-│       └── 4-living-the-blessed-life.md
+│       ├── 1-up-the-mountain.md       # Lesson 1 · The Beatitudes (published)
+│       ├── 2-salt-and-light.md        # Lesson 2 · Matt 5:13–16 (published)
+│       ├── 3-but-i-say.md             # Lesson 3 · Matt 5:17–48 (draft)
+│       ├── 4-when-you-pray.md         # Lesson 4 · Matt 6:5–15 (draft)
+│       ├── 5-treasures-and-two-masters.md  # Lesson 5 · Matt 6:19–24 (draft)
+│       ├── 6-do-not-worry.md          # Lesson 6 · Matt 6:25–34 (draft)
+│       ├── 7-judge-not.md             # Lesson 7 · Matt 7:1–6 (draft)
+│       ├── 8-ask-seek-knock.md        # Lesson 8 · Matt 7:7–12 (draft)
+│       └── 9-house-on-the-rock.md     # Lesson 9 · Matt 7:24–29 (draft)
 ├── high-school/                       # Grades 9–12 (coming soon)
 │   └── _index.md
 └── confirmation/                      # 9th grade confirmation (coming soon)
@@ -96,12 +101,12 @@ Lessons are single Markdown files named like `1-up-the-mountain.md`. Use this fr
 title: "Lesson 1 · Up the Mountain"
 linkTitle: "1 · Up the Mountain"
 weight: 1
-description: "Who gets called 'blessed'? Jesus flips the scoreboard."
+description: "The Beatitudes. Who gets called 'blessed'? Jesus flips the scoreboard."
 tags:
   - Middle School
   - Beatitudes
   - Matthew 5
-scripture: "Matthew 4:23–5:5"
+scripture: "Matthew 5:1–12"
 ---
 ```
 
@@ -155,6 +160,7 @@ The **site code** (Hugo config, layouts, CSS) is [MIT licensed](LICENSE).
 
 ## Credits
 
+- A mission of **Crossroads**, the youth ministry of [Allentown Presbyterian Church](https://allentownpresbyterian.org) in Allentown, NJ
 - Lesson template & structure adapted from Allentown Presbyterian Church's Sunday School curriculum
 - Site theme: [Hextra](https://imfing.github.io/hextra/) by [Xin](https://github.com/imfing)
 - Fueled by the conviction that every kid deserves an adult who knows their name and points them to Jesus
@@ -201,6 +207,3 @@ If `pushall` ever misbehaves, the manual equivalent is:
 ```bash
 git push got.fugu.farm master && git push github master
 ```
-### Why not just use a multi-push `origin`?
-
-A single remote with two push URLs works great when the local repo is the only source of commits. The moment GitHub starts accepting PRs, commits can appear there that aren't on the server — so `git push` would either be rejected (non-fast-forward) or would require a destructive force-push. Keeping two named remotes and fetching from GitHub first avoids that whole class of headache.
