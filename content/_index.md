@@ -4,7 +4,7 @@ layout: hextra-home
 toc: false
 ---
 
-{{< hextra/hero-badge >}}
+{{< hextra/hero-badge link="https://github.com/meerleo/opensourcesunday" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
   <span>Free. Open source. Pull requests welcome.</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
@@ -69,3 +69,12 @@ toc: false
     subtitle="Everything here is yours. Fork it, adapt it, teach it, improve it. Pull requests warmly welcomed. Heresy gently declined."
   >}}
 {{< /hextra/feature-grid >}}
+<div class="hx:mt-16 hx:mb-6 hx:text-center">
+
+### A mission of Crossroads at Allentown Presbyterian Church
+
+Opensource Sunday is a project of **Crossroads**, the youth ministry of [Allentown Presbyterian Church](https://allentownpresbyterian.org) in Allentown, New Jersey. The lessons here grew out of real Sunday mornings with real students. They got polished, open-sourced, and shared so any church, anywhere, can teach them too.
+
+[Visit Allentown Presbyterian →](https://allentownpresbyterian.org)
+
+</div>

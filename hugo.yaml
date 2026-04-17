@@ -30,13 +30,21 @@ menu:
       weight: 4
       params:
         type: search
-    - name: Theme
+    - name: GitHub
       weight: 5
+      url: "https://github.com/meerleo/opensourcesunday"
+      params:
+        icon: github
+    - name: Theme
+      weight: 6
       params:
         type: theme-toggle
 
 params:
   description: Open-source Sunday School lessons that point Middle School, High School, and Confirmation students toward Jesus.
+  editURL:
+    enable: true
+    base: "https://github.com/meerleo/opensourcesunday/edit/master/content"
   navbar:
     displayTitle: true
     displayLogo: false

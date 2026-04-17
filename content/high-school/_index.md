@@ -13,7 +13,7 @@ HS lessons on Opensource Sunday are built for students who are done being entert
 ## Series
 
 {{< callout emoji="🚧" >}}
-**Nothing to show here yet.** The HS curriculum is still being drafted. If you've got a series you want to contribute — or a lesson you've already taught that killed — [open a PR](https://github.com/).
+**Nothing to show here yet.** The HS curriculum is still being drafted. If you've got a series you want to contribute — or a lesson you've already taught that killed — [open a PR](https://github.com/meerleo/opensourcesunday).
 {{< /callout >}}
 
 ## What's coming
