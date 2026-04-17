@@ -186,14 +186,16 @@ git fetch github
 
 # Handy alias that pushes to both in one shot
 git config --global alias.pushall '!git push got.fugu.farm master && git push github master'
+
+# Rebase (not merge) when pulling, to keep history linear
+git config --global pull.rebase true
 ```
 ### Day-to-day workflow
 
-**Before starting work**, pull any PRs that were merged on GitHub so both remotes stay in sync:
+**Before starting work**, pull any PRs that were merged on GitHub so both remotes stay in sync. With `pull.rebase = true` set globally, `git pull` will rebase local commits on top of GitHub's instead of creating a merge commit:
 
 ```bash
-git fetch github
-git merge github/master   # or: git rebase github/master
+git pull github master
 ```
 
 **After committing**, push to both remotes at once:
@@ -206,4 +208,12 @@ If `pushall` ever misbehaves, the manual equivalent is:
 
 ```bash
 git push got.fugu.farm master && git push github master
+```
+### After a rebase, force-push the server remote
+
+Rebasing rewrites local commit hashes. GitHub's side fast-forwards cleanly, but `got.fugu.farm` will reject the push as non-fast-forward. Use `--force-with-lease` (safer than `--force` — it refuses the push if the remote moved since your last fetch):
+
+```bash
+git push --force-with-lease got.fugu.farm master
+git push github master
 ```
