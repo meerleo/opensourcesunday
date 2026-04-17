@@ -6,7 +6,7 @@ cascade:
   type: docs
 ---
 
-**Grades 9–12.** The ages that ask the hardest questions, call the worst bluffs, and will spot spiritual BS at 400 yards. So we try not to serve any.
+**Grades 9–12.** The ages that ask the hardest questions, barter for compliance, and will spot spiritual BS at 400 yards. So we try not to serve any.
 
 HS lessons on Opensource Sunday are built for students who are done being entertained and ready to be engaged. The template is the same as Middle School — *Behind the Curtain → Center Stage → Prop Department → Directing the Scene* — but with heavier discussion prompts, more Scripture per session, and fewer snack-based metaphors (though the snacks themselves remain non-negotiable).
 

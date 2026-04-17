@@ -31,7 +31,7 @@ toc: false
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Middle School"
-    subtitle="Grades 6–8. Loud, snacky, and surprisingly theological. Where lifelong faith usually takes root."
+    subtitle="Grades 6–8. Loud, snacky, and refreshingly theological. Where lifelong faith takes root."
     link="/middle-school"
     icon="users"
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[200px]"
@@ -39,7 +39,7 @@ toc: false
   >}}
   {{< hextra/feature-card
     title="High School"
-    subtitle="Grades 9–12. The ages that ask the hardest questions and spot spiritual BS at 400 yards. So we don't serve any."
+    subtitle="Grades 9–12. The ages that ask the hardest questions and clock spiritual BS at 400 yards. So we don't serve any."
     link="/high-school"
     icon="academic-cap"
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-lg:min-h-[200px]"
@@ -66,7 +66,7 @@ toc: false
   {{< hextra/feature-card
     title="Remix & Contribute"
     icon="code"
-    subtitle="Everything here is yours. Fork it, adapt it, teach it, improve it. Pull requests warmly welcomed. Heresy gently declined."
+    subtitle="Everything here is yours. Fork it, adapt it, teach it, improve it. Pull requests welcomed. Heresy declined."
   >}}
 {{< /hextra/feature-grid >}}
 <div class="hx:mt-16 hx:mb-6 hx:text-center">
