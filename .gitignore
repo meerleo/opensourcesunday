@@ -1,5 +1,5 @@
-# Hugo build output
-public/
+# Hugo build output (public/ is intentionally tracked — it's served directly
+# by gotwebd on the server, so the built site ships with the repo).
 resources/_gen/
 .hugo_build.lock
 

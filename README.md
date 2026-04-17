@@ -164,14 +164,19 @@ The **site code** (Hugo config, layouts, CSS) is [MIT licensed](LICENSE).
 - Lesson template & structure adapted from Allentown Presbyterian Church's Sunday School curriculum
 - Site theme: [Hextra](https://imfing.github.io/hextra/) by [Xin](https://github.com/imfing)
 - Fueled by the conviction that every kid deserves an adult who knows their name and points them to Jesus
-## Maintainer note · mirroring to GitHub
+## Maintainer note · hosting, mirroring, and deploying
 
 This repo lives in two places:
 
-- **`got.fugu.farm`** — the authoritative remote on my personal server (`ssh://git.itm.works/opensourcesunday`)
-- **`github`** — the public mirror at [github.com/meerleo/opensourcesunday](https://github.com/meerleo/opensourcesunday), where pull requests come in
+- **`got.fugu.farm`** — the authoritative remote on my personal OpenBSD server (`ssh://git.itm.works/opensourcesunday`), running [Game of Trees](https://gameoftrees.org) (gotd + gotsysd + gotwebd).
+- **`github`** — the public mirror at [github.com/meerleo/opensourcesunday](https://github.com/meerleo/opensourcesunday), where pull requests come in.
 
 Because GitHub can receive PRs, it is a *source* of commits — not just a passive mirror — so the workflow has to fetch from it before pushing.
+### How deployment works
+
+**gotwebd serves `public/` directly out of this repository.** There is no build step on the server, no CI, and no deploy hook. Pushing to `got.fugu.farm` *is* deploying — gotwebd reads the `public/` subtree at the tip of `master` and serves it at `opensourcesunday.com`.
+
+That means `public/` is intentionally tracked in Git (yes, normally it shouldn't be), and it must be rebuilt locally before every deploy.
 ### One-time setup (already done, kept here for reference)
 
 ```bash
@@ -184,11 +189,14 @@ git remote add github git@github.com:meerleo/opensourcesunday.git
 # Fetch GitHub's refs
 git fetch github
 
-# Handy alias that pushes to both in one shot
+# Push to both remotes in one shot
 git config --global alias.pushall '!git push got.fugu.farm master && git push github master'
 
 # Rebase (not merge) when pulling, to keep history linear
 git config --global pull.rebase true
+
+# Rebuild, commit public/, and push everywhere — the one-shot deploy command
+git config --global alias.deploy '!hugo --minify --cleanDestinationDir && git add public/ && git commit -m "build: deploy" && git pushall'
 ```
 ### Day-to-day workflow
 
@@ -198,13 +206,29 @@ git config --global pull.rebase true
 git pull github master
 ```
 
-**After committing**, push to both remotes at once:
+**Writing content.** Edit Markdown under `content/`. Preview with `hugo server`. Commit the source changes as usual with any descriptive message:
 
 ```bash
+git add content/
+git commit -m "content(ms/sotm): fix typo in lesson 3"
+```
+
+**Shipping it.** When you're ready to publish, run the deploy alias. It rebuilds `public/` with `--cleanDestinationDir` (so stale files are removed), stages the built output, commits it, and pushes to both remotes:
+
+```bash
+git deploy
+```
+
+If you'd rather do the steps by hand:
+
+```bash
+hugo --minify --cleanDestinationDir
+git add public/
+git commit -m "build: deploy"
 git pushall
 ```
 
-If `pushall` ever misbehaves, the manual equivalent is:
+**`pushall` failure fallback.** If the alias misbehaves, the manual equivalent is:
 
 ```bash
 git push got.fugu.farm master && git push github master
