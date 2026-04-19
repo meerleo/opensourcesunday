@@ -10,13 +10,9 @@ scripture: "Joshua 24:1–3, 13–15, 22–25"
 
 The first night. Nobody yet knows how this goes. Your job tonight is to set a tone — warm, honest, no-phones, no-dumb-questions — and to plant the word **covenant** in every kid's head before they walk out.
 
-{{< callout type="info" >}}
-**Church-specific references.** The script below mentions **J.C.** (the program director — swap for your own point of contact) and the **APC App** (the Allentown Presbyterian Church app — swap for whatever group-chat tool you actually use). Everything else is church-agnostic.
-{{< /callout >}}
-
 ## Before class
 
-- Write down attendance and share it with J.C.
+- Write down attendance and share it with the confirmation director
 - Pens and slips of paper ready for the closing reflection
 - Bibles for the Joshua 24 reading
 - Whiteboard or phone notes ready for the ground-rules list
@@ -41,7 +37,7 @@ The first night. Nobody yet knows how this goes. Your job tonight is to set a to
 >
 > It's also a journey we take **together.**
 
-Have everyone join the APC Confirmation group on the APC App. (See the [Group Chat Setup](../../running-the-year/group-chat/) page for the how-and-why.)
+Have everyone join the confirmation group chat. (See the [Group Chat Setup](../../running-the-year/group-chat/) page for the how-and-why.)
 
 ## Ground Rules
 
@@ -115,6 +111,6 @@ Teachers, **make sure to** add:
 
 **Say:**
 
-> The next class is next week and your parents are expected to attend. *(J.C. will email parents as well.)*
+> The next class is next week and your parents are expected to attend. *(The confirmation director will email parents as well.)*
 
 **Pray out together as a class.**
