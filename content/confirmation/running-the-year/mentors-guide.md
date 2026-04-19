@@ -10,7 +10,7 @@ description: "What to hand each adult who signs on to walk alongside a confirman
 Every confirmand gets an adult mentor for the year — someone from the congregation who commits to meeting with, praying for, and eventually speaking a blessing over them at the Confirmation Dessert. Mentors are the single most underrated part of a Confirmation year.
 
 {{< callout type="warning" >}}
-**We use the published *Big God, Big Questions* [Home / Mentor Guide](https://www.pcusastore.com/Products/1571532412/big-god-big-questions-home-mentor-guide.aspx)** by Geneva Press. That resource is copyrighted and not reproduced on this site — give each mentor a copy. What follows is **our own church-specific guidance** on picking and supporting mentors.
+**We use the published *Big God, Big Questions* [Home / Mentor Guide](https://www.pcusastore.com/Products/81002/big-god-big-questions-confirmation-homementor-guide.aspx)** by Geneva Press. That resource is copyrighted and not reproduced on this site — give each mentor a copy. What follows is **our own church-specific guidance** on picking and supporting mentors.
 {{< /callout >}}
 
 ## Selecting mentors

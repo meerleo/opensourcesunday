@@ -7,7 +7,22 @@ description: "The lead teacher's orientation to the Confirmation year — how ou
 
 **For the lead teacher.**
 
-The [Sessions](../../sessions/) on this site are a **Presbyterian-flavored adaptation** of a published curriculum, **[*Big God, Big Questions: Confirmation for a Growing Faith*](https://www.pcusastore.com/Products/1571532404/big-god-big-questions-teacher-guide.aspx)** by Geneva Press (Presbyterian Church USA). That teacher's guide, the BIG Journal (student workbook), the mentor guide, and the infographic poster set are the commercial resources we build on.
+The [Sessions](../../sessions/) on this site are a **Presbyterian-flavored adaptation** of a published curriculum, ***Big God, Big Questions: Confirmation for a Growing Faith*** by Geneva Press (Presbyterian Church USA). That teacher's guide, the BIG Journal (student workbook), the mentor guide, and the infographic poster set are the commercial resources we build on.
+
+### Where to buy
+
+- [Curriculum overview](https://www.pcusastore.com/Pages/Item/10494/Big-God-Big-Questions-Confirmation-Curriculum.aspx)
+- [Teacher's Guide](https://www.pcusastore.com/Products/81000/big-god-big-questions-confirmation-teachers-guide.aspx)
+- [BIG Journal (student workbook)](https://www.pcusastore.com/Products/81001/big-god-big-questions-confirmation-big-journal.aspx)
+- [Home / Mentor Guide](https://www.pcusastore.com/Products/81002/big-god-big-questions-confirmation-homementor-guide.aspx)
+- [Infographics (set of 16 posters)](https://www.pcusastore.com/Products/81003/big-god-big-questions-confirmation-infographics.aspx)
+- [DVD / video set](https://www.pcusastore.com/Products/81004/big-god-big-questions-confirmation-dvd.aspx)
+- [Class Kit (everything bundled)](https://www.pcusastore.com/Products/81005/big-god-big-questions-class-kit.aspx)
+
+### Free previews
+
+- [Scope & Sequence PDF](https://www.pcusastore.com/Content/Site119/FilesSamples/22399981000conf_00000125038.pdf) — the 12-session arc at a glance
+- [Sample book](https://www.pcusastore.com/Products/81006/big-god-big-questions-confirmation-for-a-growing-faith-sample-book.aspx) — free to order
 
 {{< callout type="warning" >}}
 **The published *Big God, Big Questions* curriculum is copyrighted by Geneva Press** (© 2018, Louisville, KY). This site does **not** reproduce it. What's published here — in the [Sessions](../../sessions/) section — is our own teaching notes and adaptations for each topic, in our own words. If you plan to run a full Confirmation year, we strongly recommend buying the official resource: it's thorough, theologically careful, and gives you the BIG Journal and infographics as student-facing pieces.
