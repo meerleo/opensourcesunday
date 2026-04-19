@@ -123,7 +123,14 @@ Examples:
 
 ## Worship — Oceans *(indoor only)*
 
-*Listen to the song and read the lyrics together — "Oceans" by Hillsong United. Listen for ways the author talks about trusting or growing their trust in God.* (Full lyrics in the appendix below.)
+Listen to the song together — ***"Oceans (Where Feet May Fail)"* by Hillsong United.** Listen for ways the author talks about trusting or growing their trust in God.
+
+- Listen: [YouTube](https://www.youtube.com/watch?v=dy9nwe9_xzw) · [Spotify](https://open.spotify.com/track/0Bn1DSXfisvfKjGUwI6rzW) · [Apple Music](https://music.apple.com/us/song/oceans-where-feet-may-fail/720106050)
+- Read along: [Genius lyrics](https://genius.com/Hillsong-united-oceans-where-feet-may-fail-lyrics)
+
+{{< callout type="warning" >}}
+**Lyric display in class.** If you want to project or print the lyrics, make sure your church's **CCLI license** covers it. *"Oceans (Where Feet May Fail)"* is copyrighted by Hillsong Music Publishing; we don't reproduce the lyrics on this open-source site.
+{{< /callout >}}
 
 **Ask:**
 
@@ -153,37 +160,3 @@ Examples:
 
 **Close with worship.** Ask a volunteer (or rotate through the circle) to read **Psalm 105:1–5** one line at a time.
 
-## Appendix — Oceans (Hillsong United) Lyrics
-
-*Print for the indoor variant, or if your group wants to read along.*
-
-> You call me out upon the waters
-> The great unknown where feet may fail
-> And there I find You in the mystery
-> In oceans deep my faith will stand
->
-> And I will call upon Your Name
-> And keep my eyes above the waves
-> When oceans rise
-> My soul will rest in Your embrace
-> For I am Yours and You are mine
->
-> Your grace abounds in deepest waters
-> Your sovereign hand will be my guide
-> Where feet may fail and fear surrounds me
-> You've never failed and You won't start now
->
-> So I will call upon Your Name
-> And keep my eyes above the waves
-> When oceans rise
-> My soul will rest in Your embrace
-> For I am Yours and You are mine, oh
->
-> And You are mine, oh
->
-> Spirit lead me where my trust is without borders
-> Let me walk upon the waters
-> Wherever You would call me
-> Take me deeper than my feet could ever wander
-> And my faith will be made stronger
-> In the presence of my Savior
