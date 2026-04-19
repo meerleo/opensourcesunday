@@ -1,6 +1,9 @@
 # Opensource Sunday
 
-Free, open-source Sunday School & youth ministry curriculum for **Middle School**, **High School**, and **Confirmation** — because great lessons shouldn't live behind a $299 paywall.
+> *"And do not forget to do good and to share with others, for with such sacrifices God is pleased."*
+> — **Hebrews 13:16**
+
+Free, open-source Sunday School curriculum for **Middle School**, **High School**, and **Confirmation**.
 
 🌐 **Live site:** [opensourcesunday.com](https://opensourcesunday.com)
 
