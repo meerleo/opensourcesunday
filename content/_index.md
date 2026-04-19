@@ -12,13 +12,13 @@ toc: false
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  Sunday School lessons&nbsp;<br class="hx:sm:block hx:hidden" />that don't cost a dime
+  Middle School, High School,&nbsp;<br class="hx:sm:block hx:hidden" />and Confirmation curriculum.
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  Open-source Middle School, High School,&nbsp;<br class="hx:sm:block hx:hidden" />and Confirmation curriculum. Built for real students, real rooms, and real attention spans.
+  Built for real students, real rooms,&nbsp;<br class="hx:sm:block hx:hidden" />and real attention spans.
 {{< /hextra/hero-subtitle >}}
 </div>
 
