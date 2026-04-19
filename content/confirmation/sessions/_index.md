@@ -28,7 +28,7 @@ Twelve topics, most of them split across two class meetings (Part A + Part B) so
 12. **Crossing Over** — *writing a statement of faith*
 
 {{< callout type="info" >}}
-**Pacing.** With A/B pairs, sessions 1–8 take 16 meetings, session 9/10/12 take one each, and session 11 takes two. That's **22 meetings** across the academic year — a bi-weekly cadence from September through May with room for a retreat, the Confirmation Dessert, and Confirmation Sunday.
+**Pacing.** With A/B pairs, sessions 1–9 and 11 take two meetings each; sessions 10 and 12 take one each. That's **22 meetings** across the academic year — a bi-weekly cadence from September through May with room for a retreat, the Confirmation Dessert, and Confirmation Sunday.
 {{< /callout >}}
 
 {{< callout emoji="🛠️" >}}
