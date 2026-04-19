@@ -2,7 +2,6 @@
 title: "Lesson 3 · But I Say"
 linkTitle: "3 · But I Say"
 weight: 3
-draft: true
 description: "Jesus isn't making the rules harder — he's making them deeper. He doesn't just want your behavior. He wants your heart."
 tags:
   - Middle School

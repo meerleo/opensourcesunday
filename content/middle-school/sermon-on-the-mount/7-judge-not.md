@@ -2,7 +2,6 @@
 title: "Lesson 7 · Judge Not"
 linkTitle: "7 · Judge Not"
 weight: 7
-draft: true
 description: "The way you judge is the way you'll be judged. Check the plank before you go after anyone's speck."
 tags:
   - Middle School

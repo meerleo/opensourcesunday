@@ -2,7 +2,6 @@
 title: "Lesson 6 · Do Not Worry"
 linkTitle: "6 · Do Not Worry"
 weight: 6
-draft: true
 description: "The God who feeds the sparrows has you. Worry isn't the move. Trust is."
 tags:
   - Middle School

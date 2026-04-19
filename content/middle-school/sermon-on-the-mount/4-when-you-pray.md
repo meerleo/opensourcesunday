@@ -2,7 +2,6 @@
 title: "Lesson 4 · When You Pray"
 linkTitle: "4 · When You Pray"
 weight: 4
-draft: true
 description: "Prayer isn't a performance. It isn't a magic spell. It's a kid talking to a Father who already loves them."
 tags:
   - Middle School

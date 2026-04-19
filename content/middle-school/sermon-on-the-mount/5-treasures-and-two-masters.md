@@ -2,7 +2,6 @@
 title: "Lesson 5 · Treasures and Two Masters"
 linkTitle: "5 · Treasures & Two Masters"
 weight: 5
-draft: true
 description: "Whatever has your heart has your life. You cannot serve both God and money — pick one."
 tags:
   - Middle School

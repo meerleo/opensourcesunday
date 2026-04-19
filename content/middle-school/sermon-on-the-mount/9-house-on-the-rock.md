@@ -2,7 +2,6 @@
 title: "Lesson 9 · House on the Rock"
 linkTitle: "9 · House on the Rock"
 weight: 9
-draft: true
 description: "Everybody builds on something. The storm comes for everybody. Only one foundation holds — and it comes from hearing AND doing Jesus' words."
 tags:
   - Middle School

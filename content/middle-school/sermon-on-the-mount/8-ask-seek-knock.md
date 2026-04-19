@@ -2,7 +2,6 @@
 title: "Lesson 8 · Ask, Seek, Knock"
 linkTitle: "8 · Ask, Seek, Knock"
 weight: 8
-draft: true
 description: "You have a Father who loves when his kids ask him for things. And the Golden Rule is the overflow."
 tags:
   - Middle School
