@@ -5,6 +5,11 @@ weight: 2
 description: "The season-long parent email series — one for each session plus the event and seasonal reminders that knit the year together."
 ---
 
+{{< hextra/hero-badge >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-yellow-400"></div>
+  <span>Draft · still being polished</span>
+{{< /hextra/hero-badge >}}
+
 **The season-long parent email series.**
 
 One email per session, sent the week before or after. These translate what we taught into a language parents can bring to the dinner table — *so what did you actually learn about sin last week?* — and flag the practical stuff (dates, drop-offs, mentor expectations).

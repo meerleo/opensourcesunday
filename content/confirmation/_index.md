@@ -6,6 +6,11 @@ cascade:
   type: docs
 ---
 
+{{< hextra/hero-badge >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-yellow-400"></div>
+  <span>Draft · the whole Confirmation curriculum is still being polished</span>
+{{< /hextra/hero-badge >}}
+
 **9th Grade.** The entry point into full participation in the life of the church.
 
 Let's be very clear about what Confirmation is — and is not:
@@ -29,16 +34,12 @@ Confirmation works best when it's **relational, not informational.** A student w
 A Confirmation year is more than a stack of lessons — it's a program with a calendar, a roster, a rhythm of parent communication, two big events, and a student project that lands on Confirmation Sunday. This section is split accordingly:
 
 {{< cards >}}
-  {{< card link="sessions" title="Sessions" subtitle="The twelve-topic curriculum — Covenant to Crossing Over" icon="book-open" >}}
-  {{< card link="running-the-year" title="Running the Year" subtitle="Sample calendar, roster, attendance, group chat, leader + mentor guides" icon="clipboard-list" >}}
-  {{< card link="communications" title="Communications" subtitle="Invite templates and the season-long parent email series" icon="mail" >}}
-  {{< card link="events" title="Events" subtitle="Confirmation Dessert and the Children & Youth Sunday service" icon="calendar" >}}
-  {{< card link="statement-of-faith" title="Statement of Faith" subtitle="The credo project: framework, guides, and student examples" icon="pencil" >}}
+  {{< card link="sessions" title="Sessions" subtitle="The twelve-topic curriculum — Covenant to Crossing Over" icon="book-open" tag="draft" tagColor="yellow" >}}
+  {{< card link="running-the-year" title="Running the Year" subtitle="Sample calendar, roster, attendance, group chat, leader + mentor guides" icon="clipboard-list" tag="draft" tagColor="yellow" >}}
+  {{< card link="communications" title="Communications" subtitle="Invite templates and the season-long parent email series" icon="mail" tag="draft" tagColor="yellow" >}}
+  {{< card link="events" title="Events" subtitle="Confirmation Dessert and the Children & Youth Sunday service" icon="calendar" tag="draft" tagColor="yellow" >}}
+  {{< card link="statement-of-faith" title="Statement of Faith" subtitle="The credo project: framework, guides, and student examples" icon="pencil" tag="draft" tagColor="yellow" >}}
 {{< /cards >}}
-
-{{< callout emoji="🛠️" >}}
-**Work in progress.** The structure is in place; content is being converted from the source Word docs session by session. Check back — or contribute a session of your own.
-{{< /callout >}}
 
 ## The arc, at a glance
 

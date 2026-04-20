@@ -8,6 +8,11 @@ cascade:
     reversePagination: false
 ---
 
+{{< hextra/hero-badge >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-yellow-400"></div>
+  <span>Draft · sessions are still being polished</span>
+{{< /hextra/hero-badge >}}
+
 **The twelve-topic Confirmation curriculum.**
 
 Twelve topics, most of them split across two class meetings (Part A + Part B) so students have a week between them to sit with the question. The last four topics (**Teaching, Fellowship, Breaking Bread, Prayer**) are the four Acts 2:42 vows a confirmand takes as part of becoming a member. The final session — **Crossing Over** — is the statement-of-faith writing workshop.
