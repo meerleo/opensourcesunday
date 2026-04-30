@@ -48,14 +48,13 @@ Three antitheses will give middle schoolers plenty: **anger, guarding the eyes, 
 - Blue painter's tape (optional — to mark a "waterline" on the wall for the iceberg illustration)
 - Index cards — one per student
 - Pens/pencils
-- Christ light / candle + matches (for opening)
 
 ## Directing the Scene
 *What learning activities might we do?*
 
 ### Start with Prayer
 
-Light the Christ light. Invite a student to lead in prayer. Tonight's teaching goes to the heart — pray that the Holy Spirit would make us brave enough to go there with Jesus.
+Invite a student to lead in prayer. Today's teaching goes to the heart — pray that the Holy Spirit would make us brave enough to go there with Jesus.
 
 ### Catch Their Attention — Surface vs. Heart (The Iceberg)
 
@@ -67,8 +66,8 @@ Say:
 > Every day of your life, two of you are going at the same time. There's *surface-you* — what people see, what you post, how you act — and there's *heart-you* — what's actually going on underneath.
 
 Ask the group:
-- *Give me some things that live on the "surface."* (How I dress. The GPA. The followers. The team I'm on. How I act at youth group.)
-- *Now things that live "below the waterline."* (Anger. Jealousy. What I look at when no one's watching. Grudges. Anxiety. What I actually believe about myself.)
+- *Give me some things that live on the "surface."* (How I dress. The GPA. The followers. The team I'm on. How I act at Sunday School.)
+- *Now things that live "below the waterline."* (What I actually believe about myself — that I'm kind. That I'm smart. That I'm brave. That I'm strong. That I matter. That I'm loved.)
 
 Write their answers in the right zones.
 
@@ -77,16 +76,15 @@ Say:
 
 ### Read and Interpret — Matthew 5:17–48
 
-**Intro for the youth:** Before reading, say:
+**Intro for the students:** Before reading, say:
 > Jesus is about to do something wild. He's going to take rules that everyone in the room already knew — rules from the Old Testament — and he's going to push each one *deeper*. Watch for the phrase **"You have heard it said… but I say to you."** He does this six times. We're going to camp on three of them.
 
 Read **Matthew 5:17–20** to set the stage. Jesus is not throwing out the Law. He's *fulfilling* it.
 
 Discuss briefly:
-1. ***Some people think Jesus came to scrap the Old Testament. What does he actually say?*** — *"I have not come to abolish them but to fulfill them."*
-2. ***What do you think it means for Jesus to *fulfill* the Law?*** — He completes it. He shows us what it was always pointing to. He makes it more than rule-following — he makes it love.
-
-Then take three antitheses.
+1. ***What stuck out to you?*** — Let students share whatever caught their attention. No wrong answers; this primes them to engage with the text.
+2. ***Some people were afraid that Jesus was going to say that the Old Testament didn't matter anymore. What does he actually say?*** — *"I have not come to abolish them but to fulfill them."*
+3. ***What do you think it means for Jesus to *fulfill* the Law?*** — He completes it. He shows us what it was always pointing to. He makes it more than rule-following — he makes it loving.
 
 #### Antithesis 1 — Anger (Matt 5:21–24)
 
@@ -102,8 +100,8 @@ Read it. Say up front — this one can feel awkward. That's okay. Jesus is takin
 Ask:
 1. ***What's the old rule?*** — Don't cheat on your spouse.
 2. ***What does Jesus push past the rule to?*** — What your eyes are doing. What your heart is doing before a single action happens.
-3. ***In 5:29–30 Jesus talks about cutting off the hand or plucking out the eye. Is he being literal?*** — No. He's using shock language to make a point: *take this seriously.* Whatever you're letting your eyes feed on is shaping your heart.
-4. ***For a middle schooler, what does this passage mean practically?*** — What you scroll past. What shows you stream. What you DM. What you save. Jesus is saying: don't just avoid the "line" — guard what your eyes feed on.
+3. ***In 5:29–30 Jesus talks about cutting off the hand or plucking out the eye. Is he being literal?*** — No. He's trying to point out how serious the things that we lust after can be.
+4. ***What does this mean for you practically?*** — What you scroll past. What shows you stream. What you DM. What you save. Jesus is saying: don't just avoid the "line" — guard what your eyes feed on.
 
 #### Antithesis 3 — Love Your Enemies (Matt 5:43–48)
 
@@ -133,13 +131,11 @@ Discuss together:
 1. ***What's harder for you — not doing bad stuff, or not *wanting* to do it?***
 2. ***Is there someone in your life right now who's gotten under your skin? What would "going to reconcile" look like?***
 3. ***What are your eyes feeding on that you know is messing with your heart?***
-4. ***Jesus said love your enemies. Who pops into your mind? What would it look like to pray for them by name this week?***
-5. ***What's one "line" in your life that you don't cross… but maybe God cares more about what your heart is doing before it gets there?***
 
 ### Turn Toward Action — One Heart Move
 
 Hand each student an index card. Say:
-> Jesus wants more than your behavior. He wants your heart. Tonight, pick one heart-level move. ONE.
+> Jesus wants more than your behavior. He wants your heart. Today, pick one heart-level move. ONE.
 
 Write on the card:
 

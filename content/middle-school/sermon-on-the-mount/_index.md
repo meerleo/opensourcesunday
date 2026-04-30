@@ -17,7 +17,7 @@ cascade:
 {{< cards >}}
   {{< card link="1-up-the-mountain" title="Lesson 1 · Up the Mountain" subtitle="Matthew 5:1–12 · The Beatitudes — who gets called blessed?" icon="map" >}}
   {{< card link="2-salt-and-light" title="Lesson 2 · Salt and Light" subtitle="Matthew 5:13–16 · Flavor and illumination" icon="light-bulb" >}}
-  {{< card link="3-but-i-say" title="Lesson 3 · But I Say" subtitle="Matthew 5:17–48 · Heart, not just behavior" icon="heart" tag="draft" tagColor="yellow" >}}
+  {{< card link="3-but-i-say" title="Lesson 3 · But I Say" subtitle="Matthew 5:17–48 · Heart, not just behavior" icon="heart" >}}
   {{< card link="4-when-you-pray" title="Lesson 4 · When You Pray" subtitle="Matthew 6:5–15 · Talk to your Father" icon="chat-alt" tag="draft" tagColor="yellow" >}}
   {{< card link="5-treasures-and-two-masters" title="Lesson 5 · Treasures & Two Masters" subtitle="Matthew 6:19–24 · What has your heart has your life" icon="sparkles" tag="draft" tagColor="yellow" >}}
   {{< card link="6-do-not-worry" title="Lesson 6 · Do Not Worry" subtitle="Matthew 6:25–34 · Trust the One who feeds sparrows" icon="cloud" tag="draft" tagColor="yellow" >}}

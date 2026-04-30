@@ -31,7 +31,7 @@ content/
 │       ├── _index.md                  # Series overview
 │       ├── 1-up-the-mountain.md       # Lesson 1 · The Beatitudes (published)
 │       ├── 2-salt-and-light.md        # Lesson 2 · Matt 5:13–16 (published)
-│       ├── 3-but-i-say.md             # Lesson 3 · Matt 5:17–48 (draft)
+│       ├── 3-but-i-say.md             # Lesson 3 · Matt 5:17–48 (published)
 │       ├── 4-when-you-pray.md         # Lesson 4 · Matt 6:5–15 (draft)
 │       ├── 5-treasures-and-two-masters.md  # Lesson 5 · Matt 6:19–24 (draft)
 │       ├── 6-do-not-worry.md          # Lesson 6 · Matt 6:25–34 (draft)
